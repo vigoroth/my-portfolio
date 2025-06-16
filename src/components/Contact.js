@@ -62,7 +62,7 @@ const Contact = () => {
               </div>
               <div className="flex items-center gap-3">
                 <FaPhone className="text-[#34D399]" size={20}/>
-                <span>+1 (234) 567-890</span>
+                <span>+30 (697) 6774272</span>
               </div>
             </div>
             <div className="mt-8 pt-6 border-t border-gray-700">
