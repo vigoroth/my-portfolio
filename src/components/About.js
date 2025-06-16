@@ -4,7 +4,7 @@ import { FaBriefcase, FaGraduationCap, FaLightbulb, FaLaptopCode } from 'react-i
 
 const About = () => {
   return (
-    <section id="about" className="bg-[#1C1C1E] py-20">
+    <section id="about" className="bg-[#111111] py-20">
       <div className="container mx-auto px-6">
         
         <h2 className="text-3xl font-bold text-center text-gray-100 mb-12">
