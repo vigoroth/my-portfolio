@@ -53,7 +53,7 @@ const Hero = () => {
               {/* Main Buttons Section */}
               <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                 <a 
-                  href="/Nikos_Papadopoulos_CV.pdf"
+                  href="/public/Kantiotis_Nikolaos_CV_2025.pdf"
                   download
                   className="bg-[#34D399] text-black font-bold py-3 px-8 rounded-full hover:bg-opacity-90 transition-all duration-300 text-center"
                 >
