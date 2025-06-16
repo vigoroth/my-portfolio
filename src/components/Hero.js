@@ -60,7 +60,7 @@ const Hero = () => {
                   Download CV
                 </a>
                 <a 
-                  href="#"
+                  href="https://dione.lib.unipi.gr/xmlui/handle/unipi/17827"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-transparent text-[#34D399] font-bold py-3 px-8 rounded-full border-2 bg-[#34D399] hover:bg-gray-800 hover:border-gray-500 transition-all duration-300 text-center"
