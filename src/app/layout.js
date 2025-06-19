@@ -10,7 +10,7 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Your Name | Portfolio", // You can customize this
+  title: "kantiotis Nick | Portfolio", // You can customize this
   description: "The professional portfolio of a Data Scientist & ML Engineer.",
 };
 
