@@ -32,4 +32,15 @@ export const projects = [
       githubLink: 'https://github.com/vigoroth/basketball_tracking_dataset_app',
     },
 
+            {
+      id: 4,
+      slug: 'Personal-Portfolio-Website',
+      title: 'Personal Portfolio Website',
+      description: 'A personal portfolio website showcasing my projects, skills, and experiences. Built with Next.js and Tailwind CSS.',
+      mainImage: '/images/profolio.png', // NEW: Path to the main project image
+      techStack: ['Python', 'Next.js','HTML','React'], // NEW: Tech stack list
+      fullDescription: 'This is my personal portfolio website, built with Next.js and Tailwind CSS. It showcases my projects, skills, and experiences in a modern and responsive design. The website is optimized for performance and SEO, ensuring a great user experience across devices.',
+      githubLink: 'https://github.com/vigoroth/my-portfolio',
+    },
+
   ];
